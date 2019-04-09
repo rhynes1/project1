@@ -1,0 +1,154 @@
+.life {
+	background: #F16059;
+	float: left;
+	width: 200px;
+	height: 400px;
+	text-align: center;
+}
+.life-content {
+  font-size: 120%;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.time-content {
+  padding-top: 25px;
+  padding-bottom: 13px;
+  padding-right: 10px;
+  padding-left: 10px;
+  font-size: 140%;
+  text-align: center;
+}
+
+.love {
+	background: #4257AD;
+  float: left;
+	width: 200px;
+	height: 400px;
+	text-align: center;
+}
+
+.love-content {
+  padding-top: 34px;
+  padding-bottom: 34px;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+/* .analyze {
+	background: grey;
+	float: left;
+	width: 200px;
+	height: 180px;
+	text-align: center;
+	padding: 20px;
+}*/
+
+.analyze-content {
+  background-color: #D0FEF5;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 23px;
+  padding-bottom: 29px;
+  font-size: 100%;
+}
+
+.mind {
+	background: #4257AD;
+	float: left;
+	width: 200px;
+	height: 209px;
+
+}
+
+.mind-content {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 40px;
+  padding-bottom: 33px;
+  text-align: center;
+  font-size: 109%;
+}
+
+.passion {
+	background: #4F9EA8;
+	float: left;
+	width: 200px;
+	height: 209px;
+	text-align: center;
+}
+
+.passion-content {
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 60px;
+  padding-bottom: 33px;
+  text-align: center;
+  font-size: 97%;
+
+}
+
+.travel {
+  background: #D0FEF5;
+  float: left;
+	width: 200px;
+	height: 400px;
+}
+
+.travel-content {
+  padding-top: 61px;
+  padding-bottom: 71px;
+  padding-right: 10px;
+  padding-left: 10px;
+  font-size: 97%;
+  text-align: center;
+
+}
+
+/* .seize {
+	background: red;
+}*/
+
+.seize-content {
+  background-color: #4F9EA8;
+  padding-top: 57px;
+  padding-bottom: 51px;
+  padding-right: 10px;
+  padding-left: 10px;
+  font-size: 104%;
+  text-align: center;
+}
+
+.meet {
+	background: #F16059;
+	float: left;
+	width: 200px;
+	height: 400px;
+}
+
+.meet-content {
+  padding-top: 5px;
+  padding-bottom: 10px;
+  padding-right: 22px;
+  padding-left: 22px;
+  font-size: 124%;
+  text-align: center;
+}
+
+.short-content {
+  padding-top: 5px;
+  padding-right: 15px;
+  padding-left: 15px;
+  font-size: 96%;
+  text-align: center;
+  font-size: 130%;
+}
+
+.emphasis {
+	font-family: 'Oswald', sans-serif;
+	font-weight: 700;
+}
+.bold {
+	font-family: 'Quattrocento', serif;
+	font-weight: 700;
+}
